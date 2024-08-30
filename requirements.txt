@@ -9,4 +9,6 @@ statsmodels==0.14.2
 tensorflow-macos==2.13.0
 tensorflow-metal==0.8.0
 torch==2.0.1
-
+pmdarima==2.0.3
+ruptures==1.1.9
+arch
